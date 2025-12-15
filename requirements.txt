@@ -1,0 +1,15 @@
+streamlit>=1.38.0
+python-dotenv>=1.0.1
+supabase>=2.4.0
+langchain>=0.2.12
+langchain-openai>=0.1.20
+langchain-google-genai>=1.0.8
+langchain-anthropic>=0.1.24
+langchain-community>=0.2.12
+langchain-text-splitters>=0.2.2
+openai>=1.42.0
+anthropic>=0.34.0
+google-generativeai>=0.7.2
+pydantic>=2.7.4
+pypdf>=4.3.1
+pandas>=2.0.0
